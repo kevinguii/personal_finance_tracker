@@ -1,6 +1,6 @@
 # Expense Tracking Application
 
-This project is a comprehensive expense tracking application built using the MERN Stack (MongoDB, Express, ReactJS, and Node.js). The application allows users to track their expenses and income, view and analyze their spending habits over time, and make more informed financial decisions.
+This project is a comprehensive expense-tracking application built using the MERN Stack (MongoDB, Express, ReactJS, and Node.js). The application allows users to track their expenses and income, view and analyze their spending habits over time, and make more informed financial decisions.
 
 ## Table of Contents
 - [Features](#features)
@@ -73,4 +73,19 @@ Once the application is running, you can:
 - View your financial dashboard for an overview of your financial health.
 
 ## Project Structure
-
+expense-tracking-app/
+├── backend/
+│ ├── config/
+│ ├── controllers/
+│ ├── models/
+│ ├── routes/
+│ ├── .env
+│ ├── server.js
+│ └── ...
+├── frontend/
+│ ├── public/
+│ ├── src/
+│ ├── .env
+│ ├── package.json
+│ └── ...
+└── README.md
