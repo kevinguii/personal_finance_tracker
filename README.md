@@ -73,6 +73,7 @@ Once the application is running, you can:
 - View your financial dashboard for an overview of your financial health.
 
 ## Project Structure
+```
 expense-tracking-app/
 ├── backend/
 │ ├── config/
@@ -89,3 +90,4 @@ expense-tracking-app/
 │ ├── package.json
 │ └── ...
 └── README.md
+```
